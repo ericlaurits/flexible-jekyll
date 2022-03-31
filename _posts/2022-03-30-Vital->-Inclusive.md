@@ -3,7 +3,7 @@ layout: post
 title: Vital > Inclusive
 date: 2022-03-30 9:19:20 +300
 description: While I'm all for inclusiveness, I'm just not for it in an elementary (or any, really) classroom.
-img: Black White Simple Quote Instagram Post.png
+img: {{site.baseurl}}/assets/img/Black White Simple Quote Instagram Post.png
 tags: [teaching, classroom]
 ---
 
