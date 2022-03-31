@@ -3,8 +3,6 @@ layout: post
 title: Vital > Inclusive
 date: 2022-03-30 9:19:20 +300
 description: While I'm all for inclusiveness, I'm just not for it in an elementary (or any, really) classroom.
-img: i-rest.jpg # Add image post (optional)
-fig-caption: # Add figcaption (optional)
 tags: [teaching, classroom]
 ---
 
