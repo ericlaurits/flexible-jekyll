@@ -2,7 +2,7 @@
 layout: post
 title: Vital > Inclusive
 date: 2022-03-30
-image: '/assets/img/Picture1.jpg'
+img: Picture1.jpg
 tags: [teaching, elementary]
 ---
 As we build our classroom communities, one word keeps ringing in our ears. Inclusive. The Inclusive Classroom. It's probably a book or a paper or an article on some blog that has a billion and a half views. While I'm all for inclusiveness, I'm just not for it in an elementary (or any, really) classroom.
@@ -28,4 +28,3 @@ It might sound something like this: "Denis, today I noticed that you came into t
 This example is verbatim though I've changed Denis' name. Every single student gets a farewell like this every afternoon no exceptions. Notice, Name, and Frame. It becomes a bit of an addiction for us teachers. Try it.
 
 [^1]:	though let's not kid ourselves, I would love to be a part of that group
-

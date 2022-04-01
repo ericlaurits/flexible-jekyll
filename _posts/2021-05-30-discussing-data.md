@@ -1,16 +1,16 @@
 ---
 layout: post
 title: Discussing Data
-date: 2022-04-01
-image: '/assets/img/IMG_0767.jpg'
-tags: [teaching, assesment]
+date: 2021-05-30
+img: IMG_0767.jpg
+tags: [teaching, assessment]
 ---
 
 Teaching has to be one of the most human professions - responsive yet passionate, caring and simultaneously joyful. Humans were designed to adapt and there aren’t many other crafts that require the fine tuned sense for when and how to adapt that require adaptation to happen so quickly and concretely.
+
 > I got into teaching because I love crunching numbers and interpreting data.
 
-
-Over my years of teaching, I have conducted numerous informal interviews/discussions about the craft of teaching with colleagues.[^1] Why did you get into teaching? Why are you still teaching? Without fail, everyone has had a story to tell that was driven by the heart. They were compassionate, determined to change things for the better, and emotionally driven.[^2] I have not heard from a single teacher, “I got into teaching because I love crunching numbers and interpreting data...” We **know** that, as teachers, we should be making data driven decisions about instruction but we might not **feel** that we should be making data driven decisions. The language and mandates regarding assessment suggest that we make our instructional decisions by looking at numbers, trends, and intervention progress... none of that has any emotion or feeling to it and yet emotion is at the root of why an overwhelmingly large number of teachers decided to become teachers. 
+Over my years of teaching, I have conducted numerous informal interviews/discussions about the craft of teaching with colleagues.[^1] Why did you get into teaching? Why are you still teaching? Without fail, everyone has had a story to tell that was driven by the heart. They were compassionate, determined to change things for the better, and emotionally driven.[^2] I have not heard from a single teacher, “I got into teaching because I love crunching numbers and interpreting data...” We **know** that, as teachers, we should be making data driven decisions about instruction but we might not **feel** that we should be making data driven decisions. The language and mandates regarding assessment suggest that we make our instructional decisions by looking at numbers, trends, and intervention progress... none of that has any emotion or feeling to it and yet emotion is at the root of why an overwhelmingly large number of teachers decided to become teachers.
 
 Therein lies the discrepancy.
 
