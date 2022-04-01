@@ -1,8 +1,6 @@
-title: Hello, world! I'm eric laurits
+title: Seek the Joy
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  teaching, teacher education, and why it matters
 permalink: ':title/'
 baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -20,7 +18,7 @@ social-linkedin: ericlaurits # add your Linkedin handle
 social-email: eric@ericlaurits.com # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
