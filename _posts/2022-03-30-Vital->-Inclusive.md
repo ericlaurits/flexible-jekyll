@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Vital > Inclusive
-date: 2022-03-30 9:19:20 +300
-description: While I'm all for inclusiveness, I'm just not for it in an elementary (or any, really) classroom.
-img: BlackWhiteSimpleQuoteInstagramPost.png
-tags: [teaching, classroom]
+date: 2022-03-30
+image: '/assets/img/Picture1.jpg'
+tags: [teaching, elementary]
 ---
-
 As we build our classroom communities, one word keeps ringing in our ears. Inclusive. The Inclusive Classroom. It's probably a book or a paper or an article on some blog that has a billion and a half views. While I'm all for inclusiveness, I'm just not for it in an elementary (or any, really) classroom.
+
+## Sub Heading
 
 The implication of inclusiveness is that *all are welcome* and while that's a lovely sentiment, it's simply not the type of classroom that we should be building. The fact that someone is welcome at a place and accepted for who they are at that moment in time is great but maintains tenuous ties to their desire to actually be in the classroom and contributing in a way that is both meaningful to them and their community.
 
